@@ -1,8 +1,10 @@
 #Inspiraion d'estragon
 
-- Concours de TAL sur les recettes de cuisine
+- Concours de TAL sur les recettes de cuisine et workshops divers
    - https://deft.limsi.fr/2013/
    - Computer cooking contest
+   - https://sites.google.com/view/ijcai2019aixfood
+
 
 - databases:
    - Marmiton, 750g,... scrappable through https://github.com/zifeo/Food-habits
@@ -20,3 +22,5 @@
 - dépots et sites webs:
   - https://github.com/schollz/meanrecipe
   - https://jaan.io/food2vec-augmented-cooking-machine-intelligence/
+  - https://towardsdatascience.com/ai-and-creating-the-worlds-ultimate-chocolate-chip-cookies-f8c688fe3f98
+  - https://github.com/conwayyao/Recipe-Analysis
